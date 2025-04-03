@@ -1,0 +1,1 @@
+export enum FriendshipActionEnum {ADD = 'add', REMOVE = 'remove'}

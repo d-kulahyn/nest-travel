@@ -1,0 +1,1 @@
+export enum FriendshipTypeEnum {FOLLOWERS = 'followers', FOLLOWINGS = 'followings'}

@@ -1,0 +1,1 @@
+export enum StorageEnum { PUBLIC = 'public'}

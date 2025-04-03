@@ -1,0 +1,1 @@
+export type JwtPayload = { access_token: string };
